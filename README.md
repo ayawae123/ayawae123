@@ -1,4 +1,4 @@
-# Hi there, I'm mariyani! 👋
+# Hi there, I'm Mariyani! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning. Here's a bit more about me:
 
