@@ -17,12 +17,9 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 - Python programming
 - Version control with Git and GitHub
 
-## 📫 How to Reach Me
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 ## ⚡ Fun Fact
-- I love solving puzzles and playing chess in my free time.
+
 
 ## 📈 GitHub Stats
 ![Ayawae123's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayawae123&show_icons=true&theme=radical)
