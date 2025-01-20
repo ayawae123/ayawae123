@@ -17,15 +17,16 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 - Python programming
 - Version control with Git and GitHub
 
-
 ## ⚡ Fun Fact
-
 
 ## 📈 GitHub Stats
 ![Ayawae123's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayawae123&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayawae123&theme=radical)
+
+## 🔥 Current Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayawae123&theme=radical)
 
 ## 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayawae123&layout=compact&theme=radical)
